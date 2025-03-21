@@ -2,6 +2,7 @@
 
 Netlogo, Agent Based Model. Traffic from Strawberry Arena (Nationalarenan), Solna, Stockholm, Sweden. 
 With data from SLU GET
+
 Created by Isak Eklund, with help from Arad Gefoor Javanmardi.
 
 Setup
