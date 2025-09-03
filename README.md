@@ -1,9 +1,9 @@
-# GIS-portfolio
+# Netlogo, Agent Based Model. 
 
-Netlogo, Agent Based Model. Traffic from Strawberry Arena (Nationalarenan), Solna: Stockholm, Sweden, to nearest main road connections. 
-With data from SLU GET
+Traffic from Strawberry Arena (Nationalarenan), Solna: Stockholm, Sweden, to nearest main road connections. 
+With data from SLU GET.
 
-Created by Isak Eklund, with help from Arad Gefoor Javanmardi.
+Netlogo model created by Isak Eklund, with help from Arad Gefoor Javanmardi.
 
 Setup
 
