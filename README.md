@@ -1,5 +1,3 @@
-# GIS-portfolio
+# GIS Course Assignments
 
-[GIS Course Assignments](https://github.com/IsakEklund/GIS-portfolio/tree/GIS-Course-Assignments)
-
-[Netlogo-Agent-Based-Modeling-(ABM)](https://github.com/IsakEklund/GIS-portfolio/tree/Netlogo-Agent-Based-Modeling-(ABM))
+Assignments from GIS I(1) and GIS II(2) read at Uppsala university.
