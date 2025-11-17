@@ -6,7 +6,8 @@ Fetches data from The Geological Survey of Sweden's (SGU) API database with choi
 
 
 
-**SGU API (Qt5)**
+**<h3>SGU API (Qt5)</h3>**
 
 
-**SGU API (Qt6)**
+
+**<h3>SGU API (Qt6)</h3>**
